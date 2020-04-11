@@ -1,0 +1,65 @@
+port,eng
+title,title
+fuel_type,fuel_type
+mileage,mileage
+power,power
+origin,origin
+city,city
+region,region
+reg_month,reg_month
+reg_year,reg_year
+garanty,garanty
+price_neg,price_neg
+price,price
+link,link
+Anunciante,advertiser
+Marca,brand
+Modelo,model
+Série,series
+Versão,version
+Cilindrada,cylinder
+Segmento,segment
+Cor,color
+Metalizado,metallic
+Tipo de Caixa,gear_type
+Número de Mudanças,gears_n
+Nº de portas,doors_n
+Lotação,capacity
+Classe do veículo,class
+Tracção,traction
+Emissões CO2,co2_emissions
+Filtro de Particulas,particle_filter
+Livro de Revisões completo,revisions_book_complete
+Não fumador,non_smoker
+2º Chave,2nd_key
+Consumo Urbano,consumption_urban
+Consumo Extra Urbano,consumption_extra_urban
+Consumo Combinado,consumption_combined
+Tecto de Abrir,open_ceiling
+Jantes de Liga Leve,alloy_wheels
+Medida Jantes de Liga Leve,alloy_wheels_size
+Estofos,upholstery
+Numero de Airbags,airbags_n
+Ar Condicionado,air_conditioning
+Condição,vehicle_condition
+VIN,vin
+Aceita retoma,accepts_recovery
+Garantia mecanica fabricante até,mechancal_guaranty_until_date
+ou até,mechancal_guaranty_until_mileage
+Registo(s),registrations_n
+Matrícula,registration_id
+Possibilidade de financiamento,finance_possible
+Garantia de Stand (incl. no preço),stand_guaranty_in_price
+IUC,iuc
+Inspecção válida até,inspection_validity_date
+Capota Eléctrica,electric_canopy
+IVA dedutível,vat_deductable
+Valor sem IUC,price_without_iuc
+Capota,canopy
+Autonomia Máxima,max_range
+Salvado,saved
+Clássico,classic
+Valor sem ISV,price_without_isv
+Garantia de Stand (incl. no preço p/mutuo acordo),stand_guaranty_not_in_price
+IVA Discriminado,vat_discriminated
+Garantia de Fábrica até,factory_guaranty_until_date
