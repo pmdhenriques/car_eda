@@ -1,0 +1,5 @@
+standvirtual/neural_net_models/hypertuning/
+*.pyc
+standvirtual_scrapy/data/
+standvirtual/models/RandomForest/
+standvirtual_scrapy/models/RandomForest/
